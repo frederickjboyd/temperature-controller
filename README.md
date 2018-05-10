@@ -2,7 +2,6 @@
 High-performance temperature controller to regulate the temperature of laser diodes using a thermoelectric cooler.  
 The primary goal of this code is to implement a PID controller that can be easily adapted to various scenarios depending on a users' needs.  
 *Code adapted from "dual_unipolar_temp_controller" by Shreyas Potnis*  
-*Vutha Labs*
 
 ## Hardware: ##
 * chipKIT uC32
